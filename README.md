@@ -1,5 +1,5 @@
 # Blog Template
-
+teste
 JavaScript Bootstrap Blog Template with examples of Module Pattern, ES6 Classes and Export/Import, WebPack, Babel and Fetch Requests API and updates DOM.
 
 ## Setup
